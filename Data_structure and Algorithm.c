@@ -3,7 +3,7 @@
 #include <conio.h>
 #include <string.h>
 #include<time.h>
-//20BCE166_20BCE177_20BCE231
+//20BCE231
 //STUDENT RECORD MANAGEMENT SYSTEM
 struct node
 {
